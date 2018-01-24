@@ -1,3 +1,5 @@
+这个仓库只是为了练习使用github
+
 # ywcmoon
 just a test github
 
